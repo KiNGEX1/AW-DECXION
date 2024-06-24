@@ -92,7 +92,7 @@ AW-DECXION decrypts files using Base64, Marshal, zlib, Rot13, and AES encryption
 
 2. **Run the Script**:
     ```sh
-    python aw_decxion.py
+    python aw_decxion-tool.ENC.py
     ```
 
 3. **Follow the Prompts**:
